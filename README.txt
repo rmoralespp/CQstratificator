@@ -1,0 +1,1 @@
+El plugin se debe poner en el directorio  ........./.qgis/python/plugins/AKI

@@ -1,0 +1,25 @@
+main ():
+
+layer: "2001";
+# This is a comment from one line
+# Variable declarations
+qinteger t1, t2, t3, t4, t5;
+qstrata s1, s2;
+qcolor color1, color2;
+qlist lista1, lista2;
+qstring nombreEstrato1, nombreEstrato2;
+# Assignments to variables declared
+t1=1;
+t2=4;
+t3=7;
+t4=9;
+t5=6;
+lista1= [t1, t2, t3, t4];
+lista2= [t5];
+nombreEstrato1="estrato1";
+nombreEstrato2="estrato2";
+color1 = (255, 255, 0);
+color2= (250, 45, 50);
+s1= {e_name: nombreEstrato1, e_color: color1, e_territories: lista1};
+s2= {e_name: nombreEstrato2, e_color: color2, e_territories: lista2};
+paint (s1,s2);
