@@ -1,0 +1,29 @@
+[general]
+name=CQestratificator
+qgisMinimumVersion=1.8
+qgisMaximumVersion=2.99
+description=Plugin to represent stratas of territories.
+version=version 2.3
+author=Rolando Morales
+email=rolando.morales@mtss.cu
+
+
+changelog=this is a very
+    very<br/>
+    very long multiline changelog
+
+
+tags=  wkt, raster,hello world, spaced tag , tag
+
+tracker=http://bugs.itopen.it/changed
+homepage=http://www.itopen.it/changed
+repository=http://www.itopen.it/changedrepo
+
+category=DESKTOP
+
+experimental=False
+
+about= CQestratificator plugin allow represent stratas of territories in Qgis through a simple programming language.
+
+; change icon...
+icon=icons/icon.png
