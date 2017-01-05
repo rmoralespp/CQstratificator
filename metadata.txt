@@ -5,7 +5,7 @@ qgisMaximumVersion=2.99
 description=Plugin to represent stratas of territories.
 version=version 2.3
 author=Rolando Morales Perez
-email=rmoralespp64@gmail.com
+email=rmoralespp@gmail.com
 
 
 changelog=this is a very
